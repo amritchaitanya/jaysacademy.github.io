@@ -35,12 +35,12 @@ body{
 }
 .navbar-dark .navbar-nav .nav-link.active,
 .navbar-dark .navbar-nav .nav-link:hover {
-  color: #ffae00;
+  color: #1ebba3;
 }
 
 /*---Landing Page --*/
 .home-inner{
-background-image: url(img/p21.jpg);
+background-image: url(img/leopard.jpg);
 }
 .caption {
 width: 100%;
@@ -90,8 +90,8 @@ font-size: 1.1rem;
   padding: .6rem 1.2 rem;
   margin: 1rem;
   color: white;
-  background-color: #ffae00;
-  border-color: #ffae00;
+  background-color: #1ebba3;
+  border-color: #1ebba3;
 }
 #particles-js{
   height: 100%;
@@ -100,8 +100,8 @@ font-size: 1.1rem;
 
 .btn-secondary:hover {
 
-  background-color: #ffae00;
-  border-color: #ffae00;
+  background-color: #189582;
+  border-color: #189582;
   
 }
 /*--- Feature Section---*/
@@ -121,12 +121,12 @@ h3.heading {
 .heading-underline{
   width: 3rem;
   height: .2rem;
-  background-color: #ffae00;
+  background-color: #1ebba3;
   margin:0 auto 2rem;
 }
 
 .feature svg.svg-inline--fa{
-  color: #ffae00;
+  color: #1ebba3;
 
 }
 .gallery h3{
@@ -171,17 +171,17 @@ h3.heading {
 }
 
 blockquote .svg-inline--fa {
-  color: #ffae00;
+  color: #1ebba3;
   margin: 1rem;
 }
 .clients-hr {
-  border-top: .05rem solid #ffae00;
+  border-top: .05rem solid #1ebba3;
 }
 
 /*--- Contact Section --*/
 footer{
-  background-color: #797979;
-  color: rgb(0, 0, 0);
+  background-color: #40474e;
+  color: white;
   padding: 2rem 0 2rem;
 }
 footer img{
@@ -197,63 +197,12 @@ footer svg.svg-inline--fa {
   margin: 1.2rem .5rem 0 0;
 }
 footer svg.svg-inline--fa:hover {
-  color: #ffae00!important;
+  color: #1ebba3!important;
 }
 
 hr.socket{
   width:100%;
   border-top: rem solid #666b71;
-}
-.contact-title  {
-  margin-top: 100px;
-  align-content: center;
-  text-align: center;
-  text-transform: uppercase;
-  transition: all 4s ease-in-out;
-}
-
-.contact-form  {
-    text-align: center;
-}
-.contact-title h1{
-font-size: 32px;
-line-height: 10px;
-}
-
-.contact-title h3{
-  font-size: 16px;
-}
-form{
-  margin-top: 50px;
-  transition: all 4s ease-in-out; 
-}
-.form-control {
-  width: 600px;
-  background: transparent;
-  text-align: center;
-  border: none;
-  outline: none;
-  border-bottom: 1px solid gray;
-  color: rgb(129, 129, 129);
-  margin-bottom: 16px;
-}
-input{
-  height: 45px;
-}
-form .submit {
-  background: #ff572f;
-  border-color: transparent;
-  color: #fff;
-  font-size: 20px;
-  font-weight: bold;
-  letter-spacing: 2px;
-  height: 50px;
-  margin-top: 20px;
-}
-form .submit:hover{
-  background-color: #f44336;
-  cursor: pointer;
-
 }
 
 .gallery-block{
