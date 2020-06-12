@@ -40,7 +40,7 @@ body{
 
 /*---Landing Page --*/
 .home-inner{
-background-image: url(img/p21.jpg);
+background-image: url(img/jays.jpg);
 }
 .caption {
 width: 100%;
@@ -48,7 +48,7 @@ max-width: 100%;
 position: absolute;
 top: 38%;
 z-index: 1;
-color: white;
+color: gray;
 
 }
 .caption h1 {
@@ -68,6 +68,7 @@ border-width: medium;
 border-radius: 0;
 padding: 0.6rem 1.3rem;
 font-size: 1.1rem;
+color: grey
 }
 
 /*---Course section---*/
@@ -95,13 +96,13 @@ font-size: 1.1rem;
 }
 #particles-js{
   height: 100%;
-  background: #ff9900;
+  background: #87ceeb;
 }
 
 .btn-secondary:hover {
 
-  background-color: #ff9900;
-  border-color: #ff9900;
+  background-color: #189582;
+  border-color: #189582;
   
 }
 /*--- Feature Section---*/
@@ -146,10 +147,16 @@ h3.heading {
   z-index: -1;
 }
 .dark {
-  background-color: rgba(0, 0, 0, 0.75);
+  background-color: rgba(163, 158, 158, 0.842);
   color: white;
   padding: 8rem 2rem;
 }
+.dark1 {
+  background-color: rgba(179, 6, 6, 0.75);
+  color: white;
+  padding: 8rem 2rem;
+}
+
 .fixed-background h3{
   margin-bottom: 2rem;
 }
