@@ -40,7 +40,7 @@ body{
 
 /*---Landing Page --*/
 .home-inner{
-background-image: url(img/jays.jpg);
+background-image: url(img/jays01.jpg);
 }
 .caption {
 width: 100%;
@@ -48,7 +48,7 @@ max-width: 100%;
 position: absolute;
 top: 38%;
 z-index: 1;
-color: gray;
+color: white;
 
 }
 .caption h1 {
@@ -68,7 +68,7 @@ border-width: medium;
 border-radius: 0;
 padding: 0.6rem 1.3rem;
 font-size: 1.1rem;
-color: grey
+color: white;
 }
 
 /*---Course section---*/
